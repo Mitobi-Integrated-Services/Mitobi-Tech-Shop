@@ -9,7 +9,7 @@ We currently working on estblishing and builidng the mitobi tech shop website, h
 *Everything starts with an issue*, before you start working on anything, [Create an Issue  →](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new).
 
 ## How we communicate
-Slack - We communicate using SLACK. To join us on slack, [Submit Request to Join DaBible Foundation Slack Channel  →](https://github.com/Mitobi-Integrated-Services/Mitobi-Tech-Shop/wiki/Slack-Channel)
+Slack - We communicate using SLACK. To join us on slack, [Submit Request to Join Mitobi Tech shop Slack Channel  →](https://github.com/Mitobi-Integrated-Services/Mitobi-Tech-Shop/wiki/Slack-Channel)
 
 ## Important Links
 - [www.mitobiltd.com]

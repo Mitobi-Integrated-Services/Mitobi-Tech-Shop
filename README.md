@@ -1,5 +1,5 @@
 # Mitobi-Tech-shop
-Welcome to Mitobi Tech shop. Here,  team members work together. Project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
+Welcome to Mitobi Tech shop. Here,  team members work together. Project managers, developers, designers, analysts, writers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
 
 We currently working on estblishing and builidng the mitobi tech shop website, here oour goal is to bridge the gap between middle men, installers and the end users. We also want to provide solutions and not just sell products to this is not just a normal e commerce website. Lastly we want to create a platform where people can search and source for products that may be hard to source
 
